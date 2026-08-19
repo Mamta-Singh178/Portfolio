@@ -1,6 +1,6 @@
-import thumbnail1 from  "../certificates/thumbnail1.png"
-import thumbnail2 from  "../certificates/thumbnail2.png"
-import thumbnail3 from  "../certificates/thumbnail3.png"
+import thumbnail1 from  "../certificates/Thumbnail1.png"
+import thumbnail2 from  "../certificates/Thumbnail2.png"
+import thumbnail3 from  "../certificates/Thumbnail3.png"
 
 
 export default function Certificates(){
